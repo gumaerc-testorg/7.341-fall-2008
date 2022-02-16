@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 54899494-214a-7587-47c3-7d1daee40fa9
 ---
@@ -65,7 +68,7 @@ We will discuss the basic cell cycle machinery, using two classic papers describ
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Cell cycle control – the role of the tumor suppressor pRb in the G1/S transition
+Cell cycle control – the role of the tumor suppressor pRb in the G{{< sub "1" >}}/S transition
 {{< tdclose >}}
 {{< tdopen >}}
 It is essential that the different phases of the cell cycle are precisely coordinated and controlled so that one phase is completed before the next one can begin. Errors in coordination can lead to chromosomal aberrations—chromosomes or parts of chromosomes can be lost, rearranged, or distributed unequally between the daughter cells. This type of alteration is often seen in cancer cells. A profound understanding of (1) how cells determine when and how to multiply and of (2) how that process can go awry is fundamental for understanding the development of cancer. Furthermore, this knowledge is essential to enable scientists and clinicians to predict, prevent, or reverse a tumor's growth properties. This week we will discuss how cell cycle control genes were first identified using yeast as a model organism. We will also discuss the role of tumor suppressor genes in the control of cell cycle progression.
