@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, brief lecture summaries,
+  and information on the mid-term and final assignments of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
