@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course summary and information on
+  meeting times, prerequisites, course objectives, grading, and the schedule of lecture
+  topics and key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ede7f243-3c92-5626-5e62-0a970e911989
 ---
@@ -81,7 +86,7 @@ The cell cycle
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Cell cycle control – the role of the tumor suppressor pRb in the G1/S transition
+Cell cycle control – the role of the tumor suppressor pRb in the G{{< sub "1" >}}/S transition
 {{< tdclose >}}
 {{< tdopen >}}
  

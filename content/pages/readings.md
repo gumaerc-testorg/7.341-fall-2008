@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of required reading assignments along
+  with a list of suggested readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9a674d23-4170-a59c-343b-5ccf693bc793
 ---
@@ -60,7 +65,7 @@ Simanis, V., and P. Nurse. "[The Cell Cycle Control Gene cdc2+ of Fission Yeast 
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Cell cycle control – the role of the tumor suppressor pRb in the G1/S transition
+Cell cycle control – the role of the tumor suppressor pRb in the G{{< sub "1" >}}/S transition
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -121,7 +126,7 @@ p53 regulation
 
 Hirao, A., Y. Y. Kong, S. Matsuoka, A. Wakeham, J. Ruland, H. Yoshida, D. Liu, S. J. Elledge, and T. W. Mak. "[DNA Damage-induced Activation of p53 by the Checkpoint Kinase Chk2](http://stke.sciencemag.org/cgi/content/abstract/sci;287/5459/1824)." _Science_ 287 (2000): 1824-7.
 
-Honda R., and H. Yasuda. "[Association of p19ARF with Mdm2 Inhibits Ubiquitin Ligase Activity of Mdm2 for Tumor Suppressor p53](http://dx.doi.org/10.1093/emboj/18.1.22)." _The EMBO Journal_ (1999) 18, 22-27.
+Honda R., and H. Yasuda. "[Association of p19{{< sup "ARF" >}} with Mdm2 Inhibits Ubiquitin Ligase Activity of Mdm2 for Tumor Suppressor p53](http://dx.doi.org/10.1093/emboj/18.1.22)." _The EMBO Journal_ (1999) 18, 22-27.
 
 
 {{< tdclose >}}
@@ -139,7 +144,7 @@ The DNA damage checkpoint differs depending on cell cycle stage
 
 Jazayeri, A., J. Falck, C. Lukas, J. Bartek, G. C. Smith, J. Lukas, and S. P. Jackson. "[ATM- and Cell Cycle-dependent Regulation of ATR in Response to DNA Double-strand Breaks](http://www.nature.com/ncb/journal/v8/n1/abs/ncb1337.html)." _Nature Cell Biology_ 8 (2006): 37-45.
 
-Jin, J., J. Shirogane, L. Xu, G. Nalepa, J. Qin, S. J. Elledge, and J. W. Harper. "[SCFβ-TRCP Links Chk1 Signaling to Degradation of the Cdc25A Protein Phosphatase](http://genesdev.cshlp.org/content/17/24/3062.abstract)." _Genes & Development_ 17 (2003): 3062-3074.
+Jin, J., J. Shirogane, L. Xu, G. Nalepa, J. Qin, S. J. Elledge, and J. W. Harper. "[SCF{{< sup "β-TRCP" >}} Links Chk1 Signaling to Degradation of the Cdc25A Protein Phosphatase](http://genesdev.cshlp.org/content/17/24/3062.abstract)." _Genes & Development_ 17 (2003): 3062-3074.
 
 
 {{< tdclose >}}
